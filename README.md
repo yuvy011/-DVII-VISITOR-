@@ -1,4 +1,4 @@
-# Follow Australia’s travel dollar
+# Visitor-Spending-in-Australia
 
 By Utkarsh Vaishnav · FIT3179 · Updated 22 October 2026
 
